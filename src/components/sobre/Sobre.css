@@ -1,0 +1,53 @@
+#sobre {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 200px auto;
+}
+
+.conteudo-sobre {
+    width: 50%;
+}
+
+.conteudo-sobre h2{
+    font-size: 3em;
+    color: #726EFF;
+}
+
+.paragrafo {
+    font-size: 1.4em;
+    text-align: justify;
+    color: azure;
+}
+
+#tecnologias {
+    padding: 50px;
+    background-color: #333e4d;
+}
+
+#tecnologias h2 {
+    font-size: 3em;
+    margin-bottom: 5px;
+    color: #726EFF;
+}
+
+.tec-bottom {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.ajustar {
+    margin-top: 10px;
+}
+
+.cor2 {
+    color: #5AFFE7;
+}
+
+.ajustar-cima {
+    margin-top: 10px;
+}

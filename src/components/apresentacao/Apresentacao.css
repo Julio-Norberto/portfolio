@@ -1,0 +1,36 @@
+#apresentacao {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 2px solid white;
+    padding: 40px;
+    width: 80%;
+    margin: 90px auto;
+}
+
+.conteudo h2 {
+    font-size: 4em;
+    color: azure;
+}
+
+.conteudo p {
+    font-size: 2em;
+    color: #08C6AB;
+}
+
+.botao {
+    background-color: #5AFFE7;
+    border: none;
+    border-radius: 11px;
+    width: 200px;
+    color: #37465B;
+    height: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #08C6AB;
+    cursor: pointer;
+}

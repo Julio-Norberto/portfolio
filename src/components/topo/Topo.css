@@ -1,0 +1,20 @@
+#topo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 15px auto;
+}
+
+#topo h1 {
+    color: #bcbdbd;
+}
+
+.cor {
+    color: #726EFF;
+}
+
+.separar {
+    margin-right: 10px;
+}

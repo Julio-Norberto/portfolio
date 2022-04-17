@@ -1,0 +1,13 @@
+#rodape {
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #1a222d;
+    color: azure;
+    text-align: center;
+}
+
+#rodape a {
+    text-decoration: none;
+    color: #08C6AB;
+}
