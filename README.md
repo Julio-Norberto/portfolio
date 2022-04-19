@@ -3,23 +3,23 @@
 Esse projeto foi feito usando React e trata-se do meu portfólio.
 
 ## Ícones usados:
-[Github](https://www.flaticon.com/br/icones-gratis/github)
+[Github](https://www.flaticon.com/br/icones-gratis/github) - Criado por: Pixel Perfect
 
-[Instagram](https://www.flaticon.com/br/icones-gratis/instagram)
+[Instagram](https://www.flaticon.com/br/icones-gratis/instagram) - Criado por: Riajulislam
 
-[LinkedIn](https://www.flaticon.com/br/icones-gratis/linkedin)
+[LinkedIn](https://www.flaticon.com/br/icones-gratis/linkedin) - Criado por: Pixel Buddha
 
-[React](https://www.flaticon.com/free-icons/react)
+[React](https://www.flaticon.com/free-icons/react) - Criado por: Vectors Market
 
-[Bootstrap](https://www.flaticon.com/free-icons/bootstrap)
+[Bootstrap](https://www.flaticon.com/free-icons/bootstrap) - Criado por: Freepik
 
-[HTML5](https://www.flaticon.com/free-icons/html5)
+[HTML5](https://www.flaticon.com/free-icons/html5) - Criado por: Riajulislam
 
-[CSS3](https://www.flaticon.com/free-icons/css-3)
+[CSS3](https://www.flaticon.com/free-icons/css-3) - Criado por: Freepik
 
-[JavaScript](https://www.flaticon.com/free-icons/javascript)
+[JavaScript](https://www.flaticon.com/free-icons/javascript) - Criado por: Freepik
 
-[Git](https://www.flaticon.com/free-icons/git)
+[Git](https://www.flaticon.com/free-icons/git) - Criado por: Pixel Perfect
 
 ## Screeshots
 
