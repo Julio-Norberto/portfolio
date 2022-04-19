@@ -10,7 +10,7 @@ export default (props) => {
         <div id="projetos">
 
             <div className="projeto">
-                    <div>
+                    <div className="img-valente">
                         <img src={valentes} width="100%" height="213" alt="" />
                     </div>
 

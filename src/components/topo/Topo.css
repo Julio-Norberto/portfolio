@@ -18,3 +18,10 @@
 .separar {
     margin-right: 10px;
 }
+
+@media (min-width: 200px) and (max-width: 690px) {
+    #topo {
+        width: 650px;
+        margin-left: 20px;
+    }
+}

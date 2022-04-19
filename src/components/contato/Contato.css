@@ -26,3 +26,67 @@
 .margin-top {
     margin-top: 20px;
 }
+
+@media (min-width: 300px) and (max-width: 600px) {
+    #contato {
+        flex-direction: column;
+    }
+
+    .socials {
+        border: 2px solid azure;
+        width: 650px;
+        margin-left: 12px;
+    }
+
+    .img-contato {
+        display: none;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 720px) {
+    #contato {
+        flex-direction: column;
+    }
+
+    .socials {
+        border: 2px solid azure;
+        width: 660px;
+        margin-left: 20px;
+    }
+
+    .img-contato {
+        display: none;
+    }
+}
+
+@media (min-width: 721px) and (max-width: 740px) {
+    #contato {
+        flex-direction: column;
+    }
+
+    .socials {
+        border: 2px solid azure;
+        width: 690px;
+        margin-left: 12px;
+    }
+
+    .img-contato {
+        display: none;
+    }
+}
+
+@media (min-width: 741px) and (max-width: 800px) {
+    #contato {
+        flex-direction: column;
+    }
+
+    .socials {
+        border: 2px solid azure;
+        width: 715px;
+        margin-left: 20px;
+    }
+
+    .img-contato {
+        display: none;
+    }
+}

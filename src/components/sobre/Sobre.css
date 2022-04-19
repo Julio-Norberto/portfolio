@@ -51,3 +51,62 @@
 .ajustar-cima {
     margin-top: 10px;
 }
+
+@media (min-width: 300px) and (max-width: 600px) {
+    #sobre {
+        flex-direction: column;
+        width: 600px;
+        margin-left: 30px;
+    }
+
+    .conteudo-sobre {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    #tecnologias {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 705px) {
+    #sobre {
+        flex-direction: column;
+        width: 600px;
+        margin-left: 50px;
+    }
+
+    .conteudo-sobre {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    #tecnologias {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 706px) and (max-width: 900px) {
+    #sobre {
+        flex-direction: column;
+    }
+
+    .conteudo-sobre {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    #tecnologias {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 1300px) {
+    #sobre {
+        height: 600px;
+    }
+}
+

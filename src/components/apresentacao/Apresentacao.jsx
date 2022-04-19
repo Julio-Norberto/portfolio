@@ -10,8 +10,8 @@ export default (props) => {
                 <h2>Júlio <span className="cor">César</span> </h2>
                 <p>Desenvolvedor Front-end</p>
 
-                <a href=""> <button className="botao">Entrar em contato</button> </a>
-                <a href=""> <button className="botao">CV</button> </a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=5581997187061&text=Ol%C3%A1%2C%20J%C3%BAlio!"> <button className="botao">Entrar em contato</button> </a>
+                <a target="_blank" href="https://www.linkedin.com/in/julio-cesar-n/"> <button className="botao">LinkedIn</button> </a>
             </div>
 
             <div className="svg">

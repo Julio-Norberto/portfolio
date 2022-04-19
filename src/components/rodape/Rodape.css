@@ -11,3 +11,15 @@
     text-decoration: none;
     color: #08C6AB;
 }
+
+@media (min-width: 300px) and (max-width: 590px) {
+    #rodape {
+        width: 680px;
+    }
+}
+
+@media (min-width: 591px) and (max-width: 680px) {
+    #rodape {
+        width: 690px;
+    }
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import './Contato.css'
 import contatos from '../../images/contact.svg'
-import github from '../../images/github.png'
+import instagram from '../../images/instagram.png'
 import linkedin from '../../images/linkedin.png'
 
 export default (props) => {
@@ -20,7 +20,7 @@ export default (props) => {
                 </div>
 
                 <div className="icones-sociais">
-                <a className="separar" target="_blank" href="https://github.com/JulioCesarNSM"> <img src={github} width="50" alt="" /> </a>
+                <a className="separar" target="_blank" href="https://www.instagram.com/jcesar_n/"> <img src={instagram} width="50" alt="" /> </a>
                 <a target="_blank" href="https://www.linkedin.com/in/julio-cesar-n/"> <img src={linkedin} width="50" alt="" /> </a>
                 </div>
 
