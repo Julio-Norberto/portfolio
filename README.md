@@ -3,7 +3,23 @@
 Esse projeto foi feito usando React e trata-se do meu portfólio.
 
 ## Ícones usados:
-![Github](https://www.flaticon.com/br/icones-gratis/github](https://www.flaticon.com/br/icones-gratis/github)
+[Github](https://www.flaticon.com/br/icones-gratis/github)
+
+[Instagram](https://www.flaticon.com/br/icones-gratis/instagram)
+
+[LinkedIn](https://www.flaticon.com/br/icones-gratis/linkedin)
+
+[React](https://www.flaticon.com/free-icons/react)
+
+[Bootstrap](https://www.flaticon.com/free-icons/bootstrap)
+
+[HTML5](https://www.flaticon.com/free-icons/html5)
+
+[CSS3](https://www.flaticon.com/free-icons/css-3)
+
+[JavaScript](https://www.flaticon.com/free-icons/javascript)
+
+[Git](https://www.flaticon.com/free-icons/git)
 
 ## Screeshots
 
