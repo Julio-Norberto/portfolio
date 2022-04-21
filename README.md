@@ -1,6 +1,7 @@
 # Portfólio
 
 Esse projeto foi feito usando React e trata-se do meu portfólio.
+Acesse ele através do link: https://julio-cesar.vercel.app/
 
 ## Ícones usados:
 [Github](https://www.flaticon.com/br/icones-gratis/github) - Criado por: Pixel Perfect
