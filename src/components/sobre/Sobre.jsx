@@ -1,11 +1,5 @@
 import React from "react";
 import './Sobre.css'
-import html from '../../images/html-5.png'
-import css from '../../images/css-3.png'
-import js from '../../images/js.png'
-import git from '../../images/git.png'
-import bootstrap from '../../images/bootstrap.png'
-import react from '../../images/react1.png'
 
 export default (props) => {
     return (
@@ -13,26 +7,9 @@ export default (props) => {
 
             <div className="conteudo-sobre">
                 <h2>Sobre mim</h2>
-                <p className="paragrafo">
-                    Sou Acadêmico de redes e certificado internacionalmente em segurança da informação pela <span className="cor2">Fortinet</span>. Trabalho com desenvolvimento web a mais ou menos 1 ano. Sou um <span className="cor2">amante da tecnologia</span> motivado pela curiosidade, e também apaixonado por resolver problemas.
+                <p className="paragrafo"> 
+                <span className="cor">Sou um amante da tecnologia inspirado pela curiosidade</span>, além disto também acadêmico de redes e atuando na área de desenvolvimento web front-end a um ano. <br /> <br /> <span className="cor">"Se você nasceu forte, ajude os fracos."</span> Na primeira vez em que ouvi essa frase ela me marcou e passei a guiar, a partir dela, meus valores. Desde então, meu objetivo é usar as habilidades que possuo, na área em que sou apaixonado, para desenvolver utilidade; utilidade para as pessoas, para a sociedade, para o mundo! É nesse contexto que insiro a programação, uma das poucas áreas onde você pode transportar o mundo digital para o físico - e é essa particularidade que me encanta; com ela, sei que posso construir aplicações que impactem, diretamente e de forma positiva, as pessoas ao meu redor. Já fiz muitos projetos utilizando <span className="cor">HTML5, CSS3 e JavaScript</span>. Atualmente, no entanto, a maiorias deles são feitos utilizando <span className="cor">React e Next JS</span>, e, por enquanto, são neles que tenho concentrado meus estudos.
                 </p>
-            </div>
-
-            <div id="tecnologias">
-                <h2>Tecnologias</h2>
-                <div className="tec-bottom">
-                    <span className="ajustar-cima"><img src={html} width="50" alt="" /></span>
-                    <span><img src={css} width="60" alt="" /></span>
-                    <span className="ajustar"><img src={js} width="47" alt="" /></span> 
-                </div>
-
-                
-                <div className="tec-bottom">
-                    <span><img src={git} width="50" alt="" /></span>
-                    <span><img src={bootstrap} width="50" alt="" /></span>
-                    <span><img src={react} width="50" alt="" /></span>
-                </div>
-                
             </div>
 
         </div>

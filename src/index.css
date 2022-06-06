@@ -4,9 +4,17 @@
 }
 
 body {
-  background-color: #212B38;
+  background-image: url(/src/images/back7.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: black;
   font-family: Oswald, sans-serif;
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
 }
 
+@media (min-width: 1370px) {
+  body {
+    width: 70%;
+  }
+}

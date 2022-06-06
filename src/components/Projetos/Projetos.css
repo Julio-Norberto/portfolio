@@ -1,13 +1,11 @@
-.titulo {
-    margin-top: 200px;
-    font-size: 1.4em;
-    margin-bottom: 35px;
-    color: #726EFF;
+.container-projetos {
+    margin: 0 auto;
 }
 
-#container-projetos {
-    width: 80%;
-    margin: 0 auto;
+.titulo {
+    font-size: 1.4em;
+    color: #04ff00;
+    margin-bottom: 35px;
 }
 
 #projetos {
@@ -15,13 +13,16 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 100px;
 }
 
 .projeto {
     width: 300px;
     height: 400px;
     padding: 5px;
-    background-color: #37465B;
+    background-color: black;
+    border: 1px solid azure;
+    border-radius: 3px;
 }
 
 .margin-parag {
@@ -41,15 +42,17 @@
     width: 100px;
     height: 30px;
     border: none;
-    background-color: #5AFFE7;
-    color: #212B38;
+    background-color: #009929;
+    color: #fff;
     font-weight: bold;
     margin-top: 30px;
+    border-radius: 3px;
 }
 
 .botoes-projeto:hover {
     cursor: pointer;
-    background-color: #08C6AB;
+    background-color: #00ff08;
+    color: black;
 }
 
 @media (min-width: 300px) and (max-width: 800px) {
@@ -126,7 +129,7 @@
     #projetos {
         width: 670px;
         flex-direction: column;
-        margin-bottom: 300px;
+        
         margin-left: 70px;
     }
 
@@ -144,5 +147,12 @@
 
     .img-valente img {
         height: 360px;
+    }
+}
+
+@media (min-width: 1370px) {
+    #projetos {
+        justify-content: space-between;    
+        margin-bottom: 400px;
     }
 }

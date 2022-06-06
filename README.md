@@ -10,17 +10,6 @@ Acesse ele através do link: https://julio-cesar.vercel.app/
 
 [LinkedIn](https://www.flaticon.com/br/icones-gratis/linkedin) - Criado por: Pixel Buddha
 
-[React](https://www.flaticon.com/free-icons/react) - Criado por: Vectors Market
-
-[Bootstrap](https://www.flaticon.com/free-icons/bootstrap) - Criado por: Freepik
-
-[HTML5](https://www.flaticon.com/free-icons/html5) - Criado por: Riajulislam
-
-[CSS3](https://www.flaticon.com/free-icons/css-3) - Criado por: Freepik
-
-[JavaScript](https://www.flaticon.com/free-icons/javascript) - Criado por: Freepik
-
-[Git](https://www.flaticon.com/free-icons/git) - Criado por: Pixel Perfect
 
 ## Screeshots
 
@@ -31,3 +20,7 @@ Acesse ele através do link: https://julio-cesar.vercel.app/
 ![Captura de Tela 2022-04-16 às 16 11 50](https://user-images.githubusercontent.com/60331328/163724734-8013a2bb-3331-4b04-8f51-79c4ab17effc.png)
 
 ![Captura de Tela 2022-04-16 às 16 12 06](https://user-images.githubusercontent.com/60331328/163724735-13b301dc-d639-47e6-a7fd-fa55617685df.png)
+
+### Imagens
+
+[imagens](https://br.freepik.com/)

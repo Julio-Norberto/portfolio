@@ -1,5 +1,5 @@
 import React from "react";
-import svg from '../../images/svg_programmer.svg'
+import svg from '../../images/svg2.svg'
 import './Apresentacao.css'
 
 export default (props) => {
@@ -15,7 +15,7 @@ export default (props) => {
             </div>
 
             <div className="svg">
-                <img src={svg} width="500" alt="" />
+                <img src={svg} alt="" />
             </div>
 
         </div>

@@ -2,14 +2,14 @@
     margin-top: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #1a222d;
+    background-color: black;
     color: azure;
     text-align: center;
 }
 
 #rodape a {
     text-decoration: none;
-    color: #08C6AB;
+    color: #04ff00;
 }
 
 @media (min-width: 300px) and (max-width: 590px) {

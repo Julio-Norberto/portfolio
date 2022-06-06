@@ -9,18 +9,18 @@ import Topo from './components/topo/Topo';
 function App() {
   return (
     <div className="App">
-      
-        <Topo />
 
-        <Apresentacao />
+      <Topo />
 
-        <Sobre />
+      <Apresentacao />
+        
+      <Sobre />
 
-        <Projetos />
+      <Projetos />
 
-        <Contato />
+      <Contato />
 
-        <Rodape />
+      <Rodape />
 
     </div>
   );

@@ -2,12 +2,9 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
-    border: 2px solid white;
+    justify-content: space-between;
     border-radius: 8px;
-    padding: 40px;
-    width: 80%;
-    margin: 90px auto;
+    margin: 0 auto;
 }
 
 .conteudo h2 {
@@ -17,24 +14,26 @@
 
 .conteudo p {
     font-size: 2em;
-    color: #08C6AB;
+    color: #fff;
 }
 
 .botao {
-    background-color: #5AFFE7;
+    background-color: #009929;
     border: none;
     border-radius: 11px;
     width: 200px;
-    color: #37465B;
+    color: #fff;
     height: 30px;
     margin-top: 20px;
     font-weight: bold;
 }
 
 .botao:hover {
-    background-color: #08C6AB;
+    background-color: #00ff08;
     cursor: pointer;
+    color: black;
 }
+
 
 @media (min-width: 300px) and (max-width: 800px) {
     #apresentacao {
@@ -57,7 +56,18 @@
 
 @media (min-width: 1300px) {
     #apresentacao {
-        height: 600px;
+        height: 530px;
+    }
+
+    .svg img {
+        width: 650px;
+    }
+}
+
+@media (min-width: 1370px) {
+    #apresentacao {
+        height: 780px;
+        margin-top: 45px;
     }
 
     .svg img {

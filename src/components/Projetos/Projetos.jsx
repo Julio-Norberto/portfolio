@@ -4,10 +4,10 @@ import './Projetos.css'
 
 export default (props) => {
     return (
-        <div id="container-projetos">
+        <div className="container-projetos">
            
             <div className="titulo">
-                <h1>Alguns dos meus Projetos</h1>
+                <h1>Alguns dos meus Projetos</h1> 
             </div>
 
             <div>
