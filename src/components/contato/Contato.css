@@ -17,6 +17,7 @@
 .socials h1 {
     font-size: 4em;
     color: #04ff00;
+    text-shadow: 0 0 10px black, 0 0 20px black, 0 0 30px black, 0 0 40px #5bff58, 0 0 70px #5bff58, 0 0 80px #5bff58, 0 0 100px #5bff58, 0 0 150px #5bff58;
 }
 
 .icones-sociais {

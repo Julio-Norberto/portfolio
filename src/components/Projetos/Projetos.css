@@ -6,6 +6,7 @@
     font-size: 1.4em;
     color: #04ff00;
     margin-bottom: 35px;
+    text-shadow: 0 0 10px black, 0 0 20px black, 0 0 30px black, 0 0 40px #5bff58, 0 0 70px #5bff58, 0 0 80px #5bff58, 0 0 100px #5bff58, 0 0 150px #5bff58;
 }
 
 #projetos {
@@ -37,22 +38,40 @@
     flex-direction: row;
     justify-content: space-around;
 }
-
 .botoes-projeto {
     width: 100px;
     height: 30px;
     border: none;
-    background-color: #009929;
-    color: #fff;
+    color: black;
     font-weight: bold;
     margin-top: 30px;
-    border-radius: 3px;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: 0 0 40px 40px #04ff00 inset, 0 0 0 0 #04ff00;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+}
+.botoes-projeto:hover {
+  box-shadow: 0 0 10px 0 #04ff00 inset, 0 0 10px 4px #04ff00;
+  background-color: black;
+  color: white;
+  cursor: pointer;
 }
 
+/*
 .botoes-projeto:hover {
     cursor: pointer;
     background-color: #00ff08;
     color: black;
+} */
+
+.margin-b {
+    margin-top: 8px;
+}
+
+.centro {
+    display: flex;
+    margin: 0 auto;
 }
 
 @media (min-width: 300px) and (max-width: 800px) {

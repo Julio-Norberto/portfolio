@@ -7,7 +7,7 @@ export default (props) => {
         <div id="apresentacao">
 
             <div className="conteudo">
-                <h2>Júlio <span className="cor">César</span> </h2>
+                <h2>Júlio <span className="cor3">Norberto</span> </h2>
                 <p>Desenvolvedor Front-end</p>
 
                 <a target="_blank" href="https://api.whatsapp.com/send?phone=5581997187061&text=Ol%C3%A1%2C%20J%C3%BAlio!"> <button className="botao">Entrar em contato</button> </a>
