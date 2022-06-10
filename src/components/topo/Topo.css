@@ -11,6 +11,10 @@
     color: #bcbdbd;
 }
 
+.title-topo {
+    animation: jump 2s;
+}
+
 .cor {
     color: #04ff00;
 }
@@ -23,6 +27,15 @@
 
 .separar {
     margin-right: 10px;
+}
+
+@keyframes jump {
+    0% {
+        transform: translateY(-50px);
+    }
+    100% {
+        transform: translateY(0);
+    }
 }
 
 @media (min-width: 200px) and (max-width: 690px) {

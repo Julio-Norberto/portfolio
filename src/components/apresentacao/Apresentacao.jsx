@@ -15,7 +15,7 @@ export default (props) => {
             </div>
 
             <div className="svg">
-                <img src={svg} alt="" />
+                <img className="porra" src={svg} alt="" />
             </div>
 
         </div>

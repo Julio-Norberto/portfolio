@@ -7,7 +7,7 @@ export default (props) => {
     return (
         <div id="topo">
 
-            <div>
+            <div className="title-topo">
                 <h1>Júlio <span className="cor" >Norberto</span></h1>
             </div>
 
