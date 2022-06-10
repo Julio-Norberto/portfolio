@@ -75,6 +75,11 @@
 }
 
 @media (min-width: 300px) and (max-width: 800px) {
+    .container-projetos {
+        margin: 0 auto;
+        margin-left: 40px;
+    }
+
     #projetos {
         flex-direction: column;
         width: 600px;
